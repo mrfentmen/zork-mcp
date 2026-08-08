@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.mrfentmen/zork-mcp",
-  "description": "Play classic text-adventure games. The AI is the player — explore dungeons, solve puzzles, collect treasure.",
+  "description": "Play classic text adventure games. The AI is the player, explore dungeons, solve puzzles, collect treasure.",
   "repository": {
     "url": "https://github.com/mrfentmen/zork-mcp",
     "source": "github"
